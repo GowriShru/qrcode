@@ -1,0 +1,9 @@
+# Core requirements
+Flask==2.3.2           # Web framework
+qrcode==7.4.2          # QR code generation
+Pillow==10.0.0         # Image processing (for logos)
+Werkzeug==2.3.6        # WSGI utilities (comes with Flask)
+
+# Optional but recommended for production:
+gunicorn==20.1.0       # Production server
+python-dotenv==1.0.0   # Environment variables
