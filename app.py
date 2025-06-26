@@ -173,3 +173,5 @@ def download():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    # Add this line for PythonAnywhere compatibility
+application = app  # This creates the required WSGI entry point
