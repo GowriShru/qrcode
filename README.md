@@ -1,11 +1,11 @@
 check this link: https://gowrisankr123.pythonanywhere.com/
 
 Standard QR code Generator Sample Image
-![image](https://github.com/user-attachments/assets/813f7c3a-641f-4b2b-88a4-723c769db006)
+![image](https://github.com/user-attachments/assets/e661f779-0d0a-48e1-a581-d4b7dc5e947c)
 
 UPI Payment QR code Generator Sample Image
-![image](https://github.com/user-attachments/assets/5f612cfc-da33-45b2-ad84-457359e318c0)
+![image](https://github.com/user-attachments/assets/39cd61be-1ec5-44ec-9150-f656b1240d3b)
 
 Bitcoin QR code Generator Sample Image
-![image](https://github.com/user-attachments/assets/6b719843-6d4c-4634-9d2e-b69063b01bee)
+![image](https://github.com/user-attachments/assets/780da661-6294-4c8e-91b9-e37c0421e8ab)
 
